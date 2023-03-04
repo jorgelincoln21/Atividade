@@ -1,0 +1,15 @@
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\bin\Debug\net7.0\Atividade.exe
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\bin\Debug\net7.0\Atividade.deps.json
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\bin\Debug\net7.0\Atividade.dll
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\bin\Debug\net7.0\Atividade.pdb
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\obj\Debug\net7.0\Atividade.dll
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\obj\Debug\net7.0\refint\Atividade.dll
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\obj\Debug\net7.0\Atividade.pdb
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+C:\Documentos\LINCOLN\FULLSTACK\SENAI\BACK-END\CODIFICAÇÃO\Atividade\obj\Debug\net7.0\ref\Atividade.dll
